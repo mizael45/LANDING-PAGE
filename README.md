@@ -1,2 +1,2 @@
 # LANDING-PAGE
-criação de uma LANDING PAGE
+minha criação de uma LANDING PAGE
